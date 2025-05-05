@@ -12,6 +12,7 @@ function App() {
    <p> hello</p>
  <p>hello</p>
 <h1> new update website</h1>
+<h1> new update</h1>
    </div>
   )
 }
